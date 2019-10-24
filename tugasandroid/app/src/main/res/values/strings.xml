@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tugasandroid</string>
+    <string name="callcenter">CALL CENTER</string>
+    <string name="website">WEBSITE POLTEKPOS</string>
+    <string name="registrasi">REGISTRASI</string>
+    <string name="kirim">KIRIM</string>
+</resources>
